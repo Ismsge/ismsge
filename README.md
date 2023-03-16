@@ -2,6 +2,7 @@
 <hr>
 <h1 align="center">Hi 👋, I'm Bensghir Ismail</h1>
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismsge&label=Profile%20views&color=0e75b6&style=flat" alt="ismsge" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismsge" alt="ismsge" /></a> </p>
