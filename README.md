@@ -11,8 +11,9 @@
 <p align="left">
 <a href="https://twitter.com/ismaillbensghir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismaillbensghir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ismailbensghir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailbensghir" height="30" width="40" /></a>
-<a href="https://fb.com/smailbensghircom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smailbensghircom" height="30" width="40" /></a>
+<a href="https://fb.com/ismailbensghircom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ismailbensghircom" height="30" width="40" /></a>
 <a href="https://instagram.com/ismail2be" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismail2be" height="30" width="40" /></a>
+<a href="https://discord.gg/ISMAIL BENSGHIR#0986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ISMAIL BENSGHIR#0986" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
