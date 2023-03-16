@@ -1,7 +1,8 @@
+<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <h1 align="center">Hi 👋, I'm Bensghir Ismail</h1>
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismsge&label=Profile%20views&color=0e75b6&style=flat" alt="ismsge" /> </p>
-<img align="center" alt="Coding" width="100" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismsge" alt="ismsge" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ismaillbensghir" target="blank"><img src="https://img.shields.io/twitter/follow/ismaillbensghir?logo=twitter&style=for-the-badge" alt="ismaillbensghir" /></a> </p>
