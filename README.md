@@ -1,4 +1,5 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
+<hr>
 <h1 align="center">Hi 👋, I'm Bensghir Ismail</h1>
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismsge&label=Profile%20views&color=0e75b6&style=flat" alt="ismsge" /> </p>
