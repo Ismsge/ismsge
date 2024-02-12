@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
+<img align="center" alt="Coding" width="1000" src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
 <hr>
 <hr>
 <h1 align="center">Hi 👋, I'm Bensghir Ismail</h1>
