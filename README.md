@@ -1,4 +1,4 @@
- <img align="right" alt="Coding" width="400px" height="300px"  src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" size="cover">
+ <img align="center" alt="Coding" width="400px" height="300px"  src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" size="cover">
 <hr>
 <hr>
 <h1 align="center">Hi 👋, I'm Bensghir Ismail</h1>
