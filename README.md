@@ -1,4 +1,4 @@
- <img align="center" alt="Coding" width="400px" height="300px"  src="[https%3A%2F%2Fwww.pinterest.com%2Fpin%2F152700243609958178%2F&psig=AOvVaw2f6NaYY5Pi2CeCrQzdquUP&ust=1707857662919000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiF39vXpoQDFQAAAAAdAAAAABAE](https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif)">
+ <img align="center" alt="Coding" width="400px" height="300px"  src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 <hr>
 <hr>
 <h1 align="center">Hi 👋, I'm Bensghir Ismail</h1>
