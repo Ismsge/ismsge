@@ -2,7 +2,7 @@
 <hr>
 <hr>
 <h1 align="center">Hi 👋, I'm Bensghir Ismail</h1>
-<h3 align="center">Software Engineer Student at SUPMTI</h3>
+<h3 align="center">Software Engineer Student </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismsge&label=Profile%20views&color=0e75b6&style=flat" alt="ismsge" /> </p>
 <hr>
 <hr>
